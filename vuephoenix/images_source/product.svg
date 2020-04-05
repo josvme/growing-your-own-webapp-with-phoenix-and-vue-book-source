@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920px"
+   height="1080px"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="product.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="731.42857"
+     inkscape:cy="540"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1357"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="0"
+     inkscape:snap-text-baseline="false" />
+  <defs
+     id="defs815" />
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g1619"
+       transform="translate(-8.5714281,60)">
+      <g
+         transform="translate(21.428572,25.714286)"
+         id="g1448">
+        <rect
+           style="fill:#ffe680;stroke:none;stroke-opacity:1"
+           id="rect1374"
+           width="1785.7142"
+           height="125.71429"
+           x="71.428574"
+           y="47.284443" />
+        <g
+           id="g1434">
+          <text
+             id="text1378"
+             y="125.0537"
+             x="192.32278"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d4aa00;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               y="125.0537"
+               x="192.32278"
+               id="tspan1376"
+               sodipodi:role="line">Product 1 </tspan></text>
+          <g
+             transform="translate(133.00568,-39.858414)"
+             id="g1400">
+            <rect
+               style="fill:#d4aa00;stroke:none;stroke-opacity:1"
+               id="rect1380"
+               width="840"
+               height="71.428574"
+               x="368.57144"
+               y="114.28571" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               x="635.8761"
+               y="164.91211"
+               id="text1384"><tspan
+                 sodipodi:role="line"
+                 id="tspan1382"
+                 x="635.8761"
+                 y="164.91211">Product Details</tspan></text>
+          </g>
+          <g
+             transform="translate(72.322784,-34.144127)"
+             id="g1395">
+            <rect
+               style="fill:#ac9d93;stroke:none;stroke-opacity:1"
+               id="rect1386"
+               width="357.14285"
+               height="60"
+               x="1302.8572"
+               y="114.28571" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               x="1358.8212"
+               y="159.19781"
+               id="text1390"><tspan
+                 sodipodi:role="line"
+                 id="tspan1388"
+                 x="1358.8212"
+                 y="159.19781">Edit Product</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(21.428572,546.42856)"
+         id="g1474">
+        <rect
+           y="47.284443"
+           x="71.428574"
+           height="125.71429"
+           width="1785.7142"
+           id="rect1450"
+           style="fill:#ffe680;stroke:none;stroke-opacity:1" />
+        <g
+           id="g1472">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d4aa00;fill-opacity:1;stroke:none"
+             x="192.32278"
+             y="125.0537"
+             id="text1454"><tspan
+               sodipodi:role="line"
+               id="tspan1452"
+               x="192.32278"
+               y="125.0537">Product 4 </tspan></text>
+          <g
+             id="g1462"
+             transform="translate(133.00568,-39.858414)">
+            <rect
+               y="114.28571"
+               x="368.57144"
+               height="71.428574"
+               width="840"
+               id="rect1456"
+               style="fill:#d4aa00;stroke:none;stroke-opacity:1" />
+            <text
+               id="text1460"
+               y="164.91211"
+               x="635.8761"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               xml:space="preserve"><tspan
+                 y="164.91211"
+                 x="635.8761"
+                 id="tspan1458"
+                 sodipodi:role="line">Product Details</tspan></text>
+          </g>
+          <g
+             id="g1470"
+             transform="translate(72.322784,-34.144127)">
+            <rect
+               y="114.28571"
+               x="1302.8572"
+               height="60"
+               width="357.14285"
+               id="rect1464"
+               style="fill:#ac9d93;stroke:none;stroke-opacity:1" />
+            <text
+               id="text1468"
+               y="159.19781"
+               x="1358.8212"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               xml:space="preserve"><tspan
+                 y="159.19781"
+                 x="1358.8212"
+                 id="tspan1466"
+                 sodipodi:role="line">Edit Product</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(21.428572,372.85715)"
+         id="g1500">
+        <rect
+           style="fill:#ffe680;stroke:none;stroke-opacity:1"
+           id="rect1476"
+           width="1785.7142"
+           height="125.71429"
+           x="71.428574"
+           y="47.284443" />
+        <g
+           id="g1498">
+          <text
+             id="text1480"
+             y="125.0537"
+             x="192.32278"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d4aa00;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               y="125.0537"
+               x="192.32278"
+               id="tspan1478"
+               sodipodi:role="line">Product 3 </tspan></text>
+          <g
+             transform="translate(133.00568,-39.858414)"
+             id="g1488">
+            <rect
+               style="fill:#d4aa00;stroke:none;stroke-opacity:1"
+               id="rect1482"
+               width="840"
+               height="71.428574"
+               x="368.57144"
+               y="114.28571" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               x="635.8761"
+               y="164.91211"
+               id="text1486"><tspan
+                 sodipodi:role="line"
+                 id="tspan1484"
+                 x="635.8761"
+                 y="164.91211">Product Details</tspan></text>
+          </g>
+          <g
+             transform="translate(72.322784,-34.144127)"
+             id="g1496">
+            <rect
+               style="fill:#ac9d93;stroke:none;stroke-opacity:1"
+               id="rect1490"
+               width="357.14285"
+               height="60"
+               x="1302.8572"
+               y="114.28571" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               x="1358.8212"
+               y="159.19781"
+               id="text1494"><tspan
+                 sodipodi:role="line"
+                 id="tspan1492"
+                 x="1358.8212"
+                 y="159.19781">Edit Product</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(21.428572,199.28574)"
+         id="g1526">
+        <rect
+           y="47.284443"
+           x="71.428574"
+           height="125.71429"
+           width="1785.7142"
+           id="rect1502"
+           style="fill:#ffe680;stroke:none;stroke-opacity:1" />
+        <g
+           id="g1524">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d4aa00;fill-opacity:1;stroke:none"
+             x="192.32278"
+             y="125.0537"
+             id="text1506"><tspan
+               sodipodi:role="line"
+               id="tspan1504"
+               x="192.32278"
+               y="125.0537">Product 2 </tspan></text>
+          <g
+             id="g1514"
+             transform="translate(133.00568,-39.858414)">
+            <rect
+               y="114.28571"
+               x="368.57144"
+               height="71.428574"
+               width="840"
+               id="rect1508"
+               style="fill:#d4aa00;stroke:none;stroke-opacity:1" />
+            <text
+               id="text1512"
+               y="164.91211"
+               x="635.8761"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               xml:space="preserve"><tspan
+                 y="164.91211"
+                 x="635.8761"
+                 id="tspan1510"
+                 sodipodi:role="line">Product Details</tspan></text>
+          </g>
+          <g
+             id="g1522"
+             transform="translate(72.322784,-34.144127)">
+            <rect
+               y="114.28571"
+               x="1302.8572"
+               height="60"
+               width="357.14285"
+               id="rect1516"
+               style="fill:#ac9d93;stroke:none;stroke-opacity:1" />
+            <text
+               id="text1520"
+               y="159.19781"
+               x="1358.8212"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               xml:space="preserve"><tspan
+                 y="159.19781"
+                 x="1358.8212"
+                 id="tspan1518"
+                 sodipodi:role="line">Edit Product</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g1552"
+         transform="translate(21.428572,720)">
+        <rect
+           y="47.284443"
+           x="71.428574"
+           height="125.71429"
+           width="1785.7142"
+           id="rect1528"
+           style="fill:#ffe680;stroke:none;stroke-opacity:1" />
+        <g
+           id="g1550">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d4aa00;fill-opacity:1;stroke:none"
+             x="192.32278"
+             y="125.0537"
+             id="text1532"><tspan
+               sodipodi:role="line"
+               id="tspan1530"
+               x="192.32278"
+               y="125.0537">Product 5 </tspan></text>
+          <g
+             id="g1540"
+             transform="translate(133.00568,-39.858414)">
+            <rect
+               y="114.28571"
+               x="368.57144"
+               height="71.428574"
+               width="840"
+               id="rect1534"
+               style="fill:#d4aa00;stroke:none;stroke-opacity:1" />
+            <text
+               id="text1538"
+               y="164.91211"
+               x="635.8761"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               xml:space="preserve"><tspan
+                 y="164.91211"
+                 x="635.8761"
+                 id="tspan1536"
+                 sodipodi:role="line">Product Details</tspan></text>
+          </g>
+          <g
+             id="g1548"
+             transform="translate(72.322784,-34.144127)">
+            <rect
+               y="114.28571"
+               x="1302.8572"
+               height="60"
+               width="357.14285"
+               id="rect1542"
+               style="fill:#ac9d93;stroke:none;stroke-opacity:1" />
+            <text
+               id="text1546"
+               y="159.19781"
+               x="1358.8212"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               xml:space="preserve"><tspan
+                 y="159.19781"
+                 x="1358.8212"
+                 id="tspan1544"
+                 sodipodi:role="line">Edit Product</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="818.71838"
+       y="74.285713"
+       id="text1748"><tspan
+         sodipodi:role="line"
+         id="tspan1746"
+         x="818.71838"
+         y="74.285713">Product List</tspan></text>
+  </g>
+</svg>

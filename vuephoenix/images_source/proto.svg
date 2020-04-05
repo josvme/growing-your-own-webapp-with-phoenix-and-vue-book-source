@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920px"
+   height="1080px"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="proto.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="644.28569"
+     inkscape:cy="540"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1341"
+     inkscape:window-x="0"
+     inkscape:window-y="64"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs831" />
+  <metadata
+     id="metadata834">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       style="fill:#241c1c;stroke:none;stroke-opacity:1"
+       id="rect1547"
+       width="2260"
+       height="1382.8572"
+       x="-228.57143"
+       y="-80" />
+    <rect
+       style="fill:#ffeeaa;stroke:none;stroke-opacity:1"
+       id="rect1392"
+       width="1720"
+       height="114.28573"
+       x="122.85714"
+       y="128.57143" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="853.49188"
+       y="200.27484"
+       id="text1396"><tspan
+         sodipodi:role="line"
+         id="tspan1394"
+         x="853.49188"
+         y="200.27484">SEARCH BAR</tspan></text>
+    <g
+       id="g2398">
+      <g
+         id="g2365">
+        <rect
+           y="414.85712"
+           x="688.91058"
+           height="240"
+           width="302.85715"
+           id="rect1417"
+           style="fill:#fff6d5;stroke:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="728.82544"
+           y="549.41766"
+           id="text1421"><tspan
+             sodipodi:role="line"
+             id="tspan1419"
+             x="728.82544"
+             y="549.41766">PRODUCTS</tspan></text>
+      </g>
+      <g
+         id="g2375">
+        <rect
+           style="fill:#fff6d5;stroke:none;stroke-opacity:1"
+           id="rect1433"
+           width="302.85715"
+           height="240"
+           x="1361.5"
+           y="414.85712" />
+        <text
+           id="text1437"
+           y="549.41766"
+           x="1395.5165"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="549.41766"
+             x="1395.5165"
+             id="tspan1435"
+             sodipodi:role="line">DELIVERIES</tspan></text>
+      </g>
+      <g
+         id="g2370">
+        <rect
+           y="414.85712"
+           x="1025.2052"
+           height="240"
+           width="302.85715"
+           id="rect1443"
+           style="fill:#fff6d5;stroke:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="1092.3271"
+           y="549.41766"
+           id="text1447"><tspan
+             sodipodi:role="line"
+             id="tspan1445"
+             x="1092.3271"
+             y="549.41766">ORDERS</tspan></text>
+      </g>
+      <g
+         id="g2380">
+        <rect
+           y="414.85712"
+           x="352.61603"
+           height="240"
+           width="302.85715"
+           id="rect1453"
+           style="fill:#fff6d5;stroke:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="378.21442"
+           y="549.41766"
+           id="text1457"><tspan
+             sodipodi:role="line"
+             id="tspan1455"
+             x="378.21442"
+             y="549.41766">CUSTOMERS</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
